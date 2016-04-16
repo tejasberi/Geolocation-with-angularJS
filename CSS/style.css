@@ -1,0 +1,21 @@
+#map {
+        height: 450px;
+        width:100%;
+        -webkit-box-shadow: 2px 3px 18px 3px rgba(0,0,0,0.75);
+		-moz-box-shadow: 2px 3px 18px 3px rgba(0,0,0,0.75);
+		box-shadow: 2px 3px 18px 3px rgba(0,0,0,0.75);
+}
+
+#dropdown{
+	width:500px;
+	margin-left: 20px;
+}
+
+.dropdown{
+	margin:30px;
+	padding: 0 10px;
+}
+
+h4{
+	margin: 40px 0;
+}
